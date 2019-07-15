@@ -13,7 +13,7 @@ echo
 clear
 echo
 echo $red"          Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v("   
+echo $red"            harap sabar menunggu yaa bro :v("   
 sleep 1
 echo '''\a
 \033[34;1m                              _
@@ -32,7 +32,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa bro :v"
 sleep 1
 echo '''\a
 \033[32;1m                             ____
@@ -51,7 +51,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa bro :v"
 sleep 1
 echo '''\a
 \033[35;1m                            _____
@@ -66,7 +66,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa bro :v"
 sleep 1
 echo '''\a
 \033[33;1m                            _  _
@@ -81,7 +81,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa bro :v"
 sleep 1
 echo '''\a
 \033[36;1m                             ____
@@ -93,37 +93,38 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  0888099xxxxx"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR  :  Rouzan Nurul Falah  "$i"                    Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  085xxxxx"$i"                Ôûê"
+echo $i"Ôûê"$pu"  Gmail   :  nurulfalah751@gmail.com"$i"     Ôûê"
+echo $i"Ôûê"$pu"  Instagram :  rouzancyber"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
-echo $cy"MeNu BRUTEPORCE NeWS:"
-echo $ku"["$me"1"$ku"]"$i" REPORT FB"
-echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
-echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
-echo $ku"["$me"4"$ku"]"$i" MBF"
+echo $cy"MENU HACK HARI INI:"
+echo $ku"["$me"1"$ku"]"$i" HACK FB"
+echo $ku"["$me"2"$ku"]"$i" HACK IG"
+echo $ku"["$me"3"$ku"]"$i" NGINTIP CCTV"
+echo $ku"["$me"4"$ku"]"$i" WEEMAN"
 echo $ku"["$me"5"$ku"]"$i" CLONING YAHOO"
 echo $ku"["$me"6"$ku"]"$i" OSIF"
 echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB"
-echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
+echo $ku"["$me"8"$ku"]"$i" DDOS"
 echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
-echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
-echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
-echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
-echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
+echo $ku"["$me"10"$ku"]"$i" SPAM SMS"
+echo $ku"["$me"11"$ku"]"$i" USER LOGIN TERMUX"
+echo $ku"["$me"12"$ku"]"$i" autombf1"
+echo $ku"["$me"13"$ku"]"$i" autombf2"
+echo 
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
+echo $pur"Ôò¡ÔöÇ["$pur"Choose your number !"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
 then
-clear
+clearn
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report.git
+git clone https://github.com/Cyber404Exploit/RESET-DATA.git
 cd Report
 unzip Report.zip
 python2 Report.py
